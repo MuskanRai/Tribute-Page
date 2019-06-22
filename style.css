@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+#main{
+    background-color: grey;
+}
+#title{
+
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+#image{
+  width: 100%;
+height: auto;
+max-width: 625px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+#img-div{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 10px 10px 10px 10px;
+}
+#img-caption{
+
+}
+#tribute-info{
+
+}
+#tribute-link{
+    
+}
